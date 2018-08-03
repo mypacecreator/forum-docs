@@ -1,0 +1,32 @@
+language: node_js
+  - "10"
+
+branches:
+  only:
+  - master
+
+before_script:
+  - yarn install
+
+script:
+  - node .travis/tracker.js
+
+after_success:
+  - |
+    if [[ "false" != "$TRAVIS_PULL_REQUEST" ]]; then
+      echo "Not deploying pull requests."
+      exit
+    fi
+  - |
+    if [[ "master" != "$TRAVIS_BRANCH" ]]; then
+      echo "Not on the 'master' branch."
+      exit
+    fi
+  - git clone "https://github.com/${TRAVIS_REPO_SLUG}.git" docs
+  - cd docs
+  - cp ../original/*.md ./original/
+  - git config user.name "Travis CI"
+  - git config user.email "i@miruc.co"
+  - git add ./original/*.md
+  - git commit -m "Update original post"
+  - git push "https://${GH_TOKEN}@github.com/${TRAVIS_REPO_SLUG}.git" origin master
