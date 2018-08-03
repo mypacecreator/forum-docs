@@ -26,7 +26,7 @@ after_success:
   - cd docs
   - cp ../original/*.md ./original/
   - git config user.name "Travis CI"
-  - git config user.email "i@miruc.co"
+  - git config user.email "k@ozn.pw"
   - git add ./original/*.md
   - git commit -m "Update original post"
   - git push "https://${GH_TOKEN}@github.com/${TRAVIS_REPO_SLUG}.git" origin master
