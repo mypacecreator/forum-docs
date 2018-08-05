@@ -1,20 +1,59 @@
-# Forum Guidelines
+<!--
+翻訳は既存Codexページを参考にした
+https://wpdocs.osdn.jp/%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D
+-->
 
+<!--
+# Forum Guidelines
+-->
+
+# フォーラム利用のガイドライン
+
+<!--
 Before posting, make sure it’s about a self hosted WordPress.org site and _not_ a WordPress.com site (See [WordPress.com vs WordPress.org](http://en.support.wordpress.com/com-vs-org/) to be sure).
+-->
+
+質問を投稿する前に、WordPress.com 上のサイトではなく、インストール型 WordPress.org サイトの質問であることを確認してください。 (よくわからない場合は [WordPress.com と WordPress.org の違い](https://ja.forums.wordpress.com/topic/wordpresscom-%e3%81%a8-wordpressorg-%e3%81%ae%e9%81%95%e3%81%84/) をお読みください。) 
 
 These forums are meant for the core application, themes, and plugins that are distributed on wordpress.org. We do not support commercial themes or products.
 
+これらのフォーラムは、WordPress.org で配布されているWordPress 本体およびテーマ、プラグインが対象となります。有償テーマおよびその他の WordPress 関連プロダクトはサポートされません。
+
+<!--
 Please read the guidelines and be respectful of everyone.
+-->
 
+ガイドラインを読んで、みなさんに敬意をはらうようにしてください。
+
+<!--
 ## Search Before Posting
+-->
 
+## 投稿前に検索してみましょう
+
+<!--
 Many of the questions that are posted in the forums have been posted many times before, and get the same answers each time. Before starting a new thread, search the forums for an answer. All of WordPress.org has been indexed by [Google](http://www.google.com/), so if a forum search doesn’t result in answers, check in Google too (e.g. Google for [ site:wordpress.org/support widget](https://www.google.com/search?hl=en&q=site%3Awordpress.org%2Fsupport%20widget&gws_rd=ssl)).
+-->
 
+フォーラムに投稿される質問の多くは過去に何度も投稿され、すでに同じような回答がつけられています。新しいスレッドを始める前に、フォーラムをまず検索してみてください。WordPress.org は [Google](http://www.google.com/) にインデックスされていますので、フォーラム内検索で答えが見つからない場合は、Google 検索もお試しください。 (例えば Google で [site:ja.wordpress.org/support ウィジェット](https://www.google.com/search?q=site%3Aja.wordpress.org%2Fsupport+%E3%82%A6%E3%82%A3%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88&oq=site%3Aja.wordpress.org%2Fsupport+%E3%82%A6%E3%82%A3%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88) と検索すれば日本語版フォーラムのウィジェットに関するページのみを検索できます。)
+
+<!--
 If the only topics are similar, but not exact, _do not_ post in that topic to ask for help.
+-->
 
+もし聞きたいこととよく似たトピックがあって、不明な点があっても、そのトピックに投稿してサポートを求めることは*しないでください*。解決しない場合は新しいトピックを立ち上げるようにしましょう。 
+
+<!--
 ## Post In the Best Place
+-->
 
+## 最適な場所に投稿しましょう
+
+<!--
 The forum is split into sections, with each forum having its own one-line description on the front page.
+-->
+
+フォーラムは複数のセクションに分けられています。フォーラムトップページには各セクションの簡単な説明が書かれています。
 
 Choose the most suitable section for a new topic and post in only one section. Duplicate posts will be removed.
 
