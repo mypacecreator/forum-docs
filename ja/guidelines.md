@@ -19,7 +19,7 @@ Before posting, make sure it’s about a self hosted WordPress.org site and _not
 These forums are meant for the core application, themes, and plugins that are distributed on wordpress.org. We do not support commercial themes or products.
 -->
 
-これらのフォーラムは、WordPress.org で配布されている WordPress 本体およびテーマ、プラグインが対象となります。有償テーマなど他の WordPress 関連プロダクトはサポートされません。
+これらのフォーラムは、WordPress.org で配布されている WordPress 本体およびテーマ、プラグインが対象となります。有償テーマなど、他の WordPress 関連プロダクトに対してサポートを受けることは出来ません。
 
 <!--
 Please read the guidelines and be respectful of everyone.

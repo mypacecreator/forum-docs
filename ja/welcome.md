@@ -32,13 +32,13 @@ Please make sure you read the [forum guidelines](https://wordpress.org/support/g
 Before posting, make sure it’s about a self hosted WordPress.org site and _not_ a WordPress.com site (See [WordPress.com vs WordPress.org](http://en.support.wordpress.com/com-vs-org/) to be sure).
 -->
 
-質問を投稿する前に WordPress.com 上のサイトではなく、インストール型 WordPress.org サイトの質問であることを確認してください。 (よくわからない場合は [WordPress.com と WordPress.org の違い](https://ja.forums.wordpress.com/topic/wordpresscom-%e3%81%a8-wordpressorg-%e3%81%ae%e9%81%95%e3%81%84/) をお読みください。) 
+質問を投稿する前に、WordPress.com 上のサイトではなく、インストール型 WordPress.org サイトの質問であることを確認してください。 (よくわからない場合は [WordPress.com と WordPress.org の違い](https://ja.forums.wordpress.com/topic/wordpresscom-%e3%81%a8-wordpressorg-%e3%81%ae%e9%81%95%e3%81%84/) をお読みください。) 
 
 <!--
 Post your question in the [appropriate forum](https://wordpress.org/support/), but don’t worry if you’re unsure about which one to use, we’ll help you regardless, and may even move it to the right forum for you if there’s a better place for it. Feel free to make a new topic, even though your issue might appear similar to other topics, most sites are unique and it’s rarely the same issue.
 -->
 
-[適切なフォーラム](https://ja.wordpress.org/support/forums/) に質問を投稿してください。ただ、どのフォーラムが適切か分からない場合ももんだいありません。投稿場所にかかわらずサポートは提供されますし、モデレーターがより適したフォーラムに投稿を移動することも出来ます。質問が他のトピックとよく似ていたとしても気軽に新しいトピックを作成してください。サイトはそれぞれ異なるので、全く同じ問題ということはほとんどありません。
+[適切なフォーラム](https://ja.wordpress.org/support/forums/) に質問を投稿してください。ただ、どのフォーラムが適切か分からない場合も問題ありません。投稿場所にかかわらずサポートは提供されますし、モデレーターにより適したフォーラムに投稿を移動してもらうことも出来ます。質問が他のトピックとよく似ていたとしても気軽に新しいトピックを作成してください。サイトはそれぞれ異なるので、全く同じ問題ということはほとんどありません。
 
 <!--
 Remember to check the box for receiving email notifications from replies, this way you know when someone has answered your question, or might be requesting more information.
