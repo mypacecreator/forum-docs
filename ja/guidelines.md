@@ -65,11 +65,23 @@ Choose the most appropriate section from the [forum front page](https://wordpres
 
 To post support questions for specific themes or plugins, visit the WordPress.org directory page for the theme/plugin first and click on the support link to create a post. This will make it more visible to the author and making it more clear what the post is about.
 
+<!--
 ## Choose A Good Topic Title
+-->
 
+## 良いトピックタイトルを選択する
+
+<!--
 Use an appropriate title when making a new topic.
+-->
 
+新しいトピックを作成するときは、適切なタイトルを付けましょう。
+
+<!--
 “Database error creating a new post with Plugin Foobar Active” is a good title. “URGENT HELP PLS!!!” is not a good title. A good title can be the difference between getting help and not.
+-->
+
+「なんとかというプラグインを有効にすると新しい記事を作成する際にデータベースエラーになる」は良いタイトルです。「大至急助けて下さい！！！」は良いタイトルではないです。良いタイトルは、助けを得られるかそうで無いかの違いになります。
 
 ## Tag Topics Wisely
 
